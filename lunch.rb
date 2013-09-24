@@ -41,4 +41,4 @@ PLACES = [
   "tir na nog",
 ]
 
-puts PLACES[rand(PLACES.size)]
+p PLACES.sample(1)
