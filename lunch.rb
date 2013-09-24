@@ -41,4 +41,4 @@ PLACES = [
   "tir na nog",
 ]
 
-p PLACES.sample(1)
+p PLACES.sample
